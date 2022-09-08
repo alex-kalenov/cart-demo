@@ -1,0 +1,23 @@
+.CountConfig {
+  display: flex;
+  align-items: center;
+  font-size: 18px;
+  margin: 0 10px;
+}
+
+.CountConfig-value {
+  margin: 0 10px;
+}
+
+.CountConfig button {
+  font-weight: bold;
+  background: black;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  padding: 2px 8px;
+}
+
+.CountConfig button:hover {
+  cursor: pointer;
+}

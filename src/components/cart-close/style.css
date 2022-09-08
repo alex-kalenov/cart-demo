@@ -1,0 +1,13 @@
+.CartClose {
+  background-color: black;
+  border: 2px solid white;
+  color: white;
+  padding: 4px 8px;
+  border-radius: 50%;
+}
+
+.CartClose:hover {
+  cursor: pointer;
+  background-color: white;
+  color: black;
+}

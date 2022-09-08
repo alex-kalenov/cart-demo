@@ -1,0 +1,11 @@
+.ProductItem {
+  display: flex;
+  justify-content: space-between;
+  border-bottom: 1px solid #000;
+  padding: 20px;
+  font-size: 18px;
+}
+
+.ProductItem-side {
+  display: flex;
+}

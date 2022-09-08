@@ -1,0 +1,17 @@
+.ReviveDeleted {
+  font-size: 18px;
+  padding: 20px;
+  color: gray;
+}
+
+.ReviveDeleted button {
+  background: none;
+  border: none;
+  text-decoration: underline;
+  font-size: 18px;
+  color: gray;
+}
+
+.ReviveDeleted button:hover {
+  cursor: pointer;
+}

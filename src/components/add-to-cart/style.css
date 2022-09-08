@@ -1,0 +1,9 @@
+.AddToCart {
+  display: flex;
+  margin-left: 20px;
+}
+
+.AddToCart-count {
+  margin-right: 10px;
+  width: 80px;
+}
